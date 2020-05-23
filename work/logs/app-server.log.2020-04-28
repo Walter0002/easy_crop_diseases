@@ -1,0 +1,321 @@
+[2020-04-25 21:49:49.055] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-25 22:20:24.330] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-25 22:24:24.116] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-25 22:40:09.471] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-25 22:43:04.225] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-25 22:43:08.380] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-25 22:43:08.419] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 11:43:14.897] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 11:43:19.039] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 11:43:19.049] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 11:44:28.341] data_util.py [line:90] INFO [13478340462766981306] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 11:44:28.341] data_util.py [line:90] INFO [11913405789190311512] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 11:44:28.341] business_service.py [line:80] INFO [13478340462766981306] prepare input cost time: 0.01 sec
+[2020-04-26 11:44:28.341] business_service.py [line:80] INFO [11913405789190311512] prepare input cost time: 0.01 sec
+[2020-04-26 11:44:29.786] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 2 cost time: 1.39 sec
+[2020-04-26 11:44:29.787] app_server.py [line:92] INFO [13478340462766981306] request cost:1.44 sec
+[2020-04-26 11:44:29.787] app_server.py [line:92] INFO [11913405789190311512] request cost:1.44 sec
+[2020-04-26 12:12:01.566] data_util.py [line:90] INFO [12508406680723110829] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 12:12:01.566] business_service.py [line:80] INFO [12508406680723110829] prepare input cost time: 0.01 sec
+[2020-04-26 12:12:02.210] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.59 sec
+[2020-04-26 12:12:02.211] app_server.py [line:92] INFO [12508406680723110829] request cost:0.65 sec
+[2020-04-26 12:13:37.040] data_util.py [line:90] INFO [13211279280120227017] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 12:13:37.040] business_service.py [line:80] INFO [13211279280120227017] prepare input cost time: 0.01 sec
+[2020-04-26 12:13:37.655] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.56 sec
+[2020-04-26 12:13:37.656] app_server.py [line:92] INFO [13211279280120227017] request cost:0.62 sec
+[2020-04-26 12:14:21.761] data_util.py [line:90] INFO [10618723239810296878] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 12:14:21.761] business_service.py [line:80] INFO [10618723239810296878] prepare input cost time: 0.01 sec
+[2020-04-26 12:14:22.378] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.57 sec
+[2020-04-26 12:14:22.378] app_server.py [line:92] INFO [10618723239810296878] request cost:0.62 sec
+[2020-04-26 13:45:55.779] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 13:46:00.279] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 13:46:00.289] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 13:47:42.696] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 13:47:46.774] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 13:47:46.784] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 13:49:30.750] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 13:49:34.918] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 13:49:34.929] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 13:52:10.842] data_util.py [line:90] INFO [12830976436573255991] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 13:52:10.843] business_service.py [line:80] INFO [12830976436573255991] prepare input cost time: 0.01 sec
+[2020-04-26 13:52:11.597] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.70 sec
+[2020-04-26 13:52:11.597] app_server.py [line:92] INFO [12830976436573255991] request cost:0.75 sec
+[2020-04-26 13:53:17.894] app_server.py [line:88] ERROR [9890639823355595287] infer exception: 'image'
+[2020-04-26 13:53:17.894] app_server.py [line:92] INFO [9890639823355595287] request cost:0.00 sec
+[2020-04-26 13:54:20.444] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 13:54:20.445] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 13:59:49.579] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 13:59:49.580] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 18:07:17.435] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 18:07:21.668] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 18:07:21.680] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 18:07:50.887] data_util.py [line:90] INFO [12241638342212660894] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 18:07:50.888] business_service.py [line:80] INFO [12241638342212660894] prepare input cost time: 0.01 sec
+[2020-04-26 18:07:51.602] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.66 sec
+[2020-04-26 18:07:51.602] app_server.py [line:92] INFO [12241638342212660894] request cost:0.71 sec
+[2020-04-26 18:43:47.638] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 18:43:47.640] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 19:59:10.628] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 19:59:14.964] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 19:59:14.975] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 19:59:26.500] data_util.py [line:90] INFO [12760969521672323416] read image base64 and resize cost time: 0.01 sec
+[2020-04-26 19:59:26.500] business_service.py [line:80] INFO [12760969521672323416] prepare input cost time: 0.01 sec
+[2020-04-26 19:59:27.275] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.72 sec
+[2020-04-26 19:59:27.276] app_server.py [line:92] INFO [12760969521672323416] request cost:0.78 sec
+[2020-04-26 20:24:12.318] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:24:12.318] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:25:17.115] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:25:17.116] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:25:59.376] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:25:59.377] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:26:17.214] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:26:17.215] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:26:37.846] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:26:37.847] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:27:02.281] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:27:02.282] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:28:11.460] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:28:11.461] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:28:31.021] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:28:31.022] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:29:08.573] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:29:08.574] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:29:22.054] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:29:22.055] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:30:50.015] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:30:50.017] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:31:42.079] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:31:42.080] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:34:56.733] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:34:56.733] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:35:35.175] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:35:35.176] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:35:35.177] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:35:35.177] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:35:35.177] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:35:35.178] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:35:35.178] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:35:35.179] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 20:35:42.673] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 20:35:46.953] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 20:35:46.963] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 20:35:59.682] app_server.py [line:88] ERROR [123] infer exception: argument should be a bytes-like object or ASCII string, not 'int'
+[2020-04-26 20:35:59.683] app_server.py [line:92] INFO [123] request cost:0.00 sec
+[2020-04-26 21:32:57.344] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 21:33:01.870] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 21:33:01.881] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 21:34:49.815] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 21:34:54.245] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 21:34:54.256] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 21:36:17.249] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 21:36:21.825] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 21:36:21.835] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 21:44:26.887] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 21:44:31.251] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 21:44:31.264] app_server.py [line:157] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-26 22:15:33.594] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-26 22:15:37.954] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-26 22:15:37.966] app_server.py [line:156] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 08:23:21.130] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 08:23:25.357] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 08:23:25.368] app_server.py [line:157] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 08:45:02.144] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 08:45:06.334] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 08:45:06.344] app_server.py [line:157] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 08:49:48.204] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 08:49:52.298] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 08:49:52.309] app_server.py [line:158] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 08:53:11.149] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 08:53:15.327] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 08:53:15.337] app_server.py [line:158] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 09:14:53.600] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 09:14:58.079] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 09:14:58.090] app_server.py [line:158] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 09:15:00.448] data_util.py [line:90] INFO [11978717021119661426] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 09:15:00.448] business_service.py [line:80] INFO [11978717021119661426] prepare input cost time: 0.01 sec
+[2020-04-27 09:15:01.201] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.70 sec
+[2020-04-27 09:15:01.202] app_server.py [line:97] INFO [11978717021119661426] request cost:0.75 sec
+[2020-04-27 12:44:52.753] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 12:44:56.966] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 12:44:56.978] app_server.py [line:161] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 12:45:03.023] data_util.py [line:90] INFO [12879939308867816927] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:45:03.023] business_service.py [line:80] INFO [12879939308867816927] prepare input cost time: 0.01 sec
+[2020-04-27 12:45:03.801] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.72 sec
+[2020-04-27 12:45:03.801] app_server.py [line:96] ERROR [12879939308867816927] infer exception: 'dict' object has no attribute 'result'
+[2020-04-27 12:45:03.801] app_server.py [line:100] INFO [12879939308867816927] request cost:0.78 sec
+[2020-04-27 12:46:42.949] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 12:46:47.085] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 12:46:47.095] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 12:46:49.185] data_util.py [line:90] INFO [12771429169070319345] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:46:49.185] business_service.py [line:80] INFO [12771429169070319345] prepare input cost time: 0.01 sec
+[2020-04-27 12:46:49.924] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.69 sec
+[2020-04-27 12:46:49.925] app_server.py [line:97] ERROR [12771429169070319345] infer exception: 'dict' object has no attribute 'result'
+[2020-04-27 12:46:49.925] app_server.py [line:101] INFO [12771429169070319345] request cost:0.74 sec
+[2020-04-27 12:49:38.948] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 12:49:43.152] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 12:49:43.163] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 12:49:46.034] data_util.py [line:90] INFO [11330422265216153471] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:49:46.035] business_service.py [line:80] INFO [11330422265216153471] prepare input cost time: 0.01 sec
+[2020-04-27 12:49:46.759] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.67 sec
+[2020-04-27 12:49:46.760] app_server.py [line:97] ERROR [11330422265216153471] infer exception: 'dict' object has no attribute 'result'
+[2020-04-27 12:49:46.761] app_server.py [line:101] INFO [11330422265216153471] request cost:0.73 sec
+[2020-04-27 12:51:24.848] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 12:51:29.043] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 12:51:29.054] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 12:51:33.667] data_util.py [line:90] INFO [9920253272821650984] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:51:33.667] business_service.py [line:80] INFO [9920253272821650984] prepare input cost time: 0.01 sec
+[2020-04-27 12:51:34.443] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.72 sec
+[2020-04-27 12:51:34.445] app_server.py [line:101] INFO [9920253272821650984] request cost:0.78 sec
+[2020-04-27 12:52:44.852] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-27 12:52:49.322] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-27 12:52:49.334] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-27 12:52:58.356] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:52:58.356] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 12:52:59.074] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.67 sec
+[2020-04-27 12:52:59.076] app_server.py [line:101] INFO [8239858798] request cost:0.72 sec
+[2020-04-27 12:53:38.561] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:53:38.561] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 12:53:39.196] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.58 sec
+[2020-04-27 12:53:39.198] app_server.py [line:101] INFO [8239858798] request cost:0.64 sec
+[2020-04-27 12:53:52.678] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 12:53:52.679] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 12:53:53.311] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.58 sec
+[2020-04-27 12:53:53.313] app_server.py [line:101] INFO [8239858798] request cost:0.63 sec
+[2020-04-27 15:19:03.034] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.02 sec
+[2020-04-27 15:19:03.035] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.02 sec
+[2020-04-27 15:19:04.141] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 1.05 sec
+[2020-04-27 15:19:04.143] app_server.py [line:101] INFO [8239858798] request cost:1.11 sec
+[2020-04-27 15:19:44.430] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:19:44.430] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:19:45.068] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.59 sec
+[2020-04-27 15:19:45.069] app_server.py [line:101] INFO [8239858798] request cost:0.64 sec
+[2020-04-27 15:21:42.894] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:21:42.895] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:21:43.639] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.69 sec
+[2020-04-27 15:21:43.640] app_server.py [line:101] INFO [8239858798] request cost:0.74 sec
+[2020-04-27 15:26:14.412] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:26:14.412] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:26:15.112] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.65 sec
+[2020-04-27 15:26:15.113] app_server.py [line:101] INFO [8239858798] request cost:0.70 sec
+[2020-04-27 15:26:39.471] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:26:39.471] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:26:40.139] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.62 sec
+[2020-04-27 15:26:40.140] app_server.py [line:101] INFO [8239858798] request cost:0.67 sec
+[2020-04-27 15:27:17.565] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:27:17.569] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:27:18.229] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-27 15:27:18.230] app_server.py [line:101] INFO [8239858798] request cost:0.66 sec
+[2020-04-27 15:27:33.552] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:27:33.553] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:27:34.194] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.59 sec
+[2020-04-27 15:27:34.196] app_server.py [line:101] INFO [8239858798] request cost:0.64 sec
+[2020-04-27 15:27:37.476] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:27:37.476] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:27:38.094] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.57 sec
+[2020-04-27 15:27:38.095] app_server.py [line:101] INFO [8239858798] request cost:0.62 sec
+[2020-04-27 15:28:09.870] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:28:09.871] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:28:10.501] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.58 sec
+[2020-04-27 15:28:10.502] app_server.py [line:101] INFO [8239858798] request cost:0.63 sec
+[2020-04-27 15:28:15.346] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:28:15.347] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:28:15.969] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.57 sec
+[2020-04-27 15:28:15.970] app_server.py [line:101] INFO [8239858798] request cost:0.62 sec
+[2020-04-27 15:29:10.000] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.00 sec
+[2020-04-27 15:29:10.001] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:29:10.687] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.64 sec
+[2020-04-27 15:29:10.688] app_server.py [line:101] INFO [8239858798] request cost:0.69 sec
+[2020-04-27 15:32:57.732] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:32:57.733] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:32:58.388] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.60 sec
+[2020-04-27 15:32:58.388] app_server.py [line:101] INFO [8239858798] request cost:0.65 sec
+[2020-04-27 15:42:20.022] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 15:42:20.022] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 15:42:20.684] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-27 15:42:20.685] app_server.py [line:101] INFO [8239858798] request cost:0.66 sec
+[2020-04-27 17:18:49.475] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.02 sec
+[2020-04-27 17:18:49.477] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.02 sec
+[2020-04-27 17:18:50.587] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 1.06 sec
+[2020-04-27 17:18:50.589] app_server.py [line:101] INFO [8239858798] request cost:1.11 sec
+[2020-04-27 17:19:22.621] data_util.py [line:90] INFO [8239858798] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 17:19:22.622] business_service.py [line:80] INFO [8239858798] prepare input cost time: 0.01 sec
+[2020-04-27 17:19:23.287] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-27 17:19:23.289] app_server.py [line:101] INFO [8239858798] request cost:0.67 sec
+[2020-04-27 17:51:45.820] data_util.py [line:90] INFO [68027915198025910] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 17:51:45.821] business_service.py [line:80] INFO [68027915198025910] prepare input cost time: 0.01 sec
+[2020-04-27 17:51:46.479] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-27 17:51:46.480] app_server.py [line:101] INFO [68027915198025910] request cost:0.66 sec
+[2020-04-27 17:51:51.988] data_util.py [line:90] INFO [33566090931833450] read image base64 and resize cost time: 0.01 sec
+[2020-04-27 17:51:51.988] business_service.py [line:80] INFO [33566090931833450] prepare input cost time: 0.01 sec
+[2020-04-27 17:51:52.604] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.57 sec
+[2020-04-27 17:51:52.605] app_server.py [line:101] INFO [33566090931833450] request cost:0.62 sec
+[2020-04-28 12:23:27.729] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-28 12:23:37.103] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-28 12:23:37.120] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-28 12:30:49.890] data_util.py [line:90] INFO [7486977388984362] read image base64 and resize cost time: 0.06 sec
+[2020-04-28 12:30:49.891] business_service.py [line:80] INFO [7486977388984362] prepare input cost time: 0.06 sec
+[2020-04-28 12:30:50.718] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.78 sec
+[2020-04-28 12:30:50.719] app_server.py [line:101] INFO [7486977388984362] request cost:0.83 sec
+[2020-04-28 12:31:12.326] data_util.py [line:90] INFO [81589810622428290] read image base64 and resize cost time: 0.07 sec
+[2020-04-28 12:31:12.327] business_service.py [line:80] INFO [81589810622428290] prepare input cost time: 0.07 sec
+[2020-04-28 12:31:12.450] data_util.py [line:90] INFO [51961440658018240] read image base64 and resize cost time: 0.12 sec
+[2020-04-28 12:31:12.450] business_service.py [line:80] INFO [51961440658018240] prepare input cost time: 0.12 sec
+[2020-04-28 12:31:12.952] pivot.py [line:62] INFO [51961440658018240] set:task_queue is full, try a moment later
+[2020-04-28 12:31:12.953] app_server.py [line:101] INFO [51961440658018240] request cost:0.50 sec
+[2020-04-28 12:31:12.997] data_util.py [line:90] INFO [44769016331222970] read image base64 and resize cost time: 0.06 sec
+[2020-04-28 12:31:12.997] business_service.py [line:80] INFO [44769016331222970] prepare input cost time: 0.06 sec
+[2020-04-28 12:31:13.042] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.66 sec
+[2020-04-28 12:31:13.048] app_server.py [line:101] INFO [81589810622428290] request cost:0.72 sec
+[2020-04-28 12:31:13.755] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.66 sec
+[2020-04-28 12:31:13.755] app_server.py [line:101] INFO [44769016331222970] request cost:0.76 sec
+[2020-04-28 12:31:20.659] data_util.py [line:90] INFO [97667292743525500] read image base64 and resize cost time: 0.05 sec
+[2020-04-28 12:31:20.660] business_service.py [line:80] INFO [97667292743525500] prepare input cost time: 0.05 sec
+[2020-04-28 12:31:21.307] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.60 sec
+[2020-04-28 12:31:21.307] app_server.py [line:101] INFO [97667292743525500] request cost:0.65 sec
+[2020-04-28 12:36:13.255] data_util.py [line:90] INFO [51209559960281580] read image base64 and resize cost time: 0.05 sec
+[2020-04-28 12:36:13.256] business_service.py [line:80] INFO [51209559960281580] prepare input cost time: 0.05 sec
+[2020-04-28 12:36:13.935] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.63 sec
+[2020-04-28 12:36:13.936] app_server.py [line:101] INFO [51209559960281580] request cost:0.68 sec
+[2020-04-28 12:36:22.225] data_util.py [line:90] INFO [83358527175779340] read image base64 and resize cost time: 0.05 sec
+[2020-04-28 12:36:22.225] business_service.py [line:80] INFO [83358527175779340] prepare input cost time: 0.05 sec
+[2020-04-28 12:36:22.893] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.62 sec
+[2020-04-28 12:36:22.894] app_server.py [line:101] INFO [83358527175779340] request cost:0.67 sec
+[2020-04-28 12:36:33.951] data_util.py [line:90] INFO [89646974785319980] read image base64 and resize cost time: 0.05 sec
+[2020-04-28 12:36:33.952] business_service.py [line:80] INFO [89646974785319980] prepare input cost time: 0.05 sec
+[2020-04-28 12:36:34.591] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.59 sec
+[2020-04-28 12:36:34.592] app_server.py [line:101] INFO [89646974785319980] request cost:0.64 sec
+[2020-04-28 12:37:16.534] data_util.py [line:90] INFO [65421343246847960] read image base64 and resize cost time: 0.05 sec
+[2020-04-28 12:37:16.535] business_service.py [line:80] INFO [65421343246847960] prepare input cost time: 0.05 sec
+[2020-04-28 12:37:17.185] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.60 sec
+[2020-04-28 12:37:17.186] app_server.py [line:101] INFO [65421343246847960] request cost:0.65 sec
+[2020-04-28 12:40:45.351] data_util.py [line:90] INFO [26362424490141988] read image base64 and resize cost time: 0.01 sec
+[2020-04-28 12:40:45.351] business_service.py [line:80] INFO [26362424490141988] prepare input cost time: 0.01 sec
+[2020-04-28 12:40:46.019] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.62 sec
+[2020-04-28 12:40:46.020] app_server.py [line:101] INFO [26362424490141988] request cost:0.67 sec
+[2020-04-28 12:41:02.222] data_util.py [line:90] INFO [66997519875248160] read image base64 and resize cost time: 0.01 sec
+[2020-04-28 12:41:02.223] business_service.py [line:80] INFO [66997519875248160] prepare input cost time: 0.01 sec
+[2020-04-28 12:41:02.892] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.62 sec
+[2020-04-28 12:41:02.893] app_server.py [line:101] INFO [66997519875248160] request cost:0.67 sec
+[2020-04-28 12:43:01.151] data_util.py [line:90] INFO [97369958222226050] read image base64 and resize cost time: 0.01 sec
+[2020-04-28 12:43:01.152] business_service.py [line:80] INFO [97369958222226050] prepare input cost time: 0.01 sec
+[2020-04-28 12:43:01.817] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-28 12:43:01.818] app_server.py [line:101] INFO [97369958222226050] request cost:0.67 sec
+[2020-04-28 12:44:06.307] data_util.py [line:90] INFO [75619927262591520] read image base64 and resize cost time: 0.04 sec
+[2020-04-28 12:44:06.307] business_service.py [line:80] INFO [75619927262591520] prepare input cost time: 0.05 sec
+[2020-04-28 12:44:06.962] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.60 sec
+[2020-04-28 12:44:06.963] app_server.py [line:101] INFO [75619927262591520] request cost:0.65 sec
+[2020-04-28 12:45:34.399] data_util.py [line:90] INFO [64766379701700584] read image base64 and resize cost time: 0.01 sec
+[2020-04-28 12:45:34.399] business_service.py [line:80] INFO [64766379701700584] prepare input cost time: 0.01 sec
+[2020-04-28 12:45:35.042] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.59 sec
+[2020-04-28 12:45:35.043] app_server.py [line:101] INFO [64766379701700584] request cost:0.64 sec
+[2020-04-28 13:05:17.432] data_util.py [line:90] INFO [62714262391758990] read image base64 and resize cost time: 0.01 sec
+[2020-04-28 13:05:17.434] business_service.py [line:80] INFO [62714262391758990] prepare input cost time: 0.01 sec
+[2020-04-28 13:05:18.141] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.66 sec
+[2020-04-28 13:05:18.142] app_server.py [line:101] INFO [62714262391758990] request cost:0.71 sec
+[2020-04-28 21:50:48.802] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-28 21:50:54.158] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-28 21:50:54.169] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-28 21:52:02.375] data_util.py [line:90] INFO [45404643322563350] read image base64 and resize cost time: 0.01 sec
+[2020-04-28 21:52:02.376] business_service.py [line:80] INFO [45404643322563350] prepare input cost time: 0.01 sec
+[2020-04-28 21:52:03.172] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.75 sec
+[2020-04-28 21:52:03.173] app_server.py [line:101] INFO [45404643322563350] request cost:0.80 sec

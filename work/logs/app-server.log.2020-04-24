@@ -1,0 +1,182 @@
+[2020-02-11 17:12:22.526] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-02-11 17:12:24.491] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'vgg': '../data/data20686/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-02-11 17:12:24.496] app_server.py [line:151] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-11 21:20:52.904] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-11 21:54:54.281] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-11 21:54:55.749] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-11 21:54:55.754] app_server.py [line:151] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-11 22:06:30.936] data_util.py [line:67] INFO [12474278724680340229] read image base64 and resize cost time: 0.00 sec
+[2020-04-11 22:06:30.937] business_service.py [line:80] INFO [12474278724680340229] prepare input cost time: 0.00 sec
+[2020-04-11 22:09:20.988] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-11 22:09:22.469] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-11 22:09:22.473] app_server.py [line:151] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-11 22:09:58.518] data_util.py [line:67] INFO [11182642832574616333] read image base64 and resize cost time: 0.00 sec
+[2020-04-11 22:09:58.518] business_service.py [line:80] INFO [11182642832574616333] prepare input cost time: 0.00 sec
+[2020-04-11 22:17:45.669] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-11 22:17:47.256] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-11 22:17:47.259] app_server.py [line:151] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 08:58:32.705] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 08:58:34.418] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 08:58:34.422] app_server.py [line:151] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 09:32:46.883] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 09:32:48.492] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 09:32:48.495] app_server.py [line:152] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 09:41:42.390] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 09:41:44.096] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 09:41:44.099] app_server.py [line:152] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 09:46:59.484] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 09:47:01.208] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 09:47:01.212] app_server.py [line:154] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 09:50:24.720] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 09:50:26.377] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 09:50:26.380] app_server.py [line:154] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 10:46:00.825] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 10:46:02.564] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 10:46:02.568] app_server.py [line:154] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 10:47:38.344] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 10:47:39.949] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 10:47:39.952] app_server.py [line:152] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 10:47:53.203] app_server.py [line:87] ERROR [10993272703765016599] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.203] app_server.py [line:91] INFO [10993272703765016599] request cost:0.00 sec
+[2020-04-12 10:47:53.207] app_server.py [line:87] ERROR [12562414936430357503] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.207] app_server.py [line:91] INFO [12562414936430357503] request cost:0.00 sec
+[2020-04-12 10:47:53.210] app_server.py [line:87] ERROR [13036477906660320971] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.210] app_server.py [line:91] INFO [13036477906660320971] request cost:0.00 sec
+[2020-04-12 10:47:53.213] app_server.py [line:87] ERROR [12156436228477306426] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.213] app_server.py [line:91] INFO [12156436228477306426] request cost:0.00 sec
+[2020-04-12 10:47:53.216] app_server.py [line:87] ERROR [10444030150891263755] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.217] app_server.py [line:91] INFO [10444030150891263755] request cost:0.00 sec
+[2020-04-12 10:47:53.219] app_server.py [line:87] ERROR [9967963655379406847] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.220] app_server.py [line:91] INFO [9967963655379406847] request cost:0.00 sec
+[2020-04-12 10:47:53.223] app_server.py [line:87] ERROR [9401020386566717190] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.223] app_server.py [line:91] INFO [9401020386566717190] request cost:0.00 sec
+[2020-04-12 10:47:53.226] app_server.py [line:87] ERROR [12341600850492602250] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.226] app_server.py [line:91] INFO [12341600850492602250] request cost:0.00 sec
+[2020-04-12 10:47:53.229] app_server.py [line:87] ERROR [13809655294443539459] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.229] app_server.py [line:91] INFO [13809655294443539459] request cost:0.00 sec
+[2020-04-12 10:47:53.232] app_server.py [line:87] ERROR [11403710408282048236] infer exception: Invalid base64-encoded string: number of data characters (9) cannot be 1 more than a multiple of 4
+[2020-04-12 10:47:53.232] app_server.py [line:91] INFO [11403710408282048236] request cost:0.00 sec
+[2020-04-12 10:53:19.116] data_util.py [line:67] INFO [10125693543672947781] read image base64 and resize cost time: 0.00 sec
+[2020-04-12 10:53:19.116] business_service.py [line:80] INFO [10125693543672947781] prepare input cost time: 0.00 sec
+[2020-04-12 11:06:09.017] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 11:06:10.775] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 11:06:10.779] app_server.py [line:152] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 11:06:22.812] app_server.py [line:87] ERROR [10320824850565111989] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.812] app_server.py [line:91] INFO [10320824850565111989] request cost:0.00 sec
+[2020-04-12 11:06:22.820] app_server.py [line:87] ERROR [10347392965949636410] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.820] app_server.py [line:91] INFO [10347392965949636410] request cost:0.00 sec
+[2020-04-12 11:06:22.827] app_server.py [line:87] ERROR [12101501837671260532] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.827] app_server.py [line:91] INFO [12101501837671260532] request cost:0.00 sec
+[2020-04-12 11:06:22.836] app_server.py [line:87] ERROR [13722305041242558139] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.836] app_server.py [line:91] INFO [13722305041242558139] request cost:0.00 sec
+[2020-04-12 11:06:22.843] app_server.py [line:87] ERROR [12284676073915441748] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.843] app_server.py [line:91] INFO [12284676073915441748] request cost:0.00 sec
+[2020-04-12 11:06:22.850] app_server.py [line:87] ERROR [9389903316359379117] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.851] app_server.py [line:91] INFO [9389903316359379117] request cost:0.00 sec
+[2020-04-12 11:06:22.863] app_server.py [line:87] ERROR [13207779394289606664] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.863] app_server.py [line:91] INFO [13207779394289606664] request cost:0.00 sec
+[2020-04-12 11:06:22.869] app_server.py [line:87] ERROR [11468278145016862725] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.869] app_server.py [line:91] INFO [11468278145016862725] request cost:0.00 sec
+[2020-04-12 11:06:22.875] app_server.py [line:87] ERROR [12215541071524145831] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.875] app_server.py [line:91] INFO [12215541071524145831] request cost:0.00 sec
+[2020-04-12 11:06:22.881] app_server.py [line:87] ERROR [12691884020525262847] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:06:22.881] app_server.py [line:91] INFO [12691884020525262847] request cost:0.00 sec
+[2020-04-12 11:08:08.795] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 11:08:10.501] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 11:08:10.505] app_server.py [line:152] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 11:08:18.844] app_server.py [line:87] ERROR [10972660699238082021] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.845] app_server.py [line:91] INFO [10972660699238082021] request cost:0.00 sec
+[2020-04-12 11:08:18.852] app_server.py [line:87] ERROR [11477222647093204175] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.852] app_server.py [line:91] INFO [11477222647093204175] request cost:0.00 sec
+[2020-04-12 11:08:18.859] app_server.py [line:87] ERROR [9343275435339985862] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.859] app_server.py [line:91] INFO [9343275435339985862] request cost:0.00 sec
+[2020-04-12 11:08:18.865] app_server.py [line:87] ERROR [9822813384459268349] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.865] app_server.py [line:91] INFO [9822813384459268349] request cost:0.00 sec
+[2020-04-12 11:08:18.870] app_server.py [line:87] ERROR [10587216409331013552] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.870] app_server.py [line:91] INFO [10587216409331013552] request cost:0.00 sec
+[2020-04-12 11:08:18.875] app_server.py [line:87] ERROR [12568311243158415396] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.875] app_server.py [line:91] INFO [12568311243158415396] request cost:0.00 sec
+[2020-04-12 11:08:18.879] app_server.py [line:87] ERROR [9344787668957700597] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.879] app_server.py [line:91] INFO [9344787668957700597] request cost:0.00 sec
+[2020-04-12 11:08:18.883] app_server.py [line:87] ERROR [10815619933451243338] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.884] app_server.py [line:91] INFO [10815619933451243338] request cost:0.00 sec
+[2020-04-12 11:08:18.888] app_server.py [line:87] ERROR [13487247987050929942] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.888] app_server.py [line:91] INFO [13487247987050929942] request cost:0.00 sec
+[2020-04-12 11:08:18.892] app_server.py [line:87] ERROR [10318987602576034380] infer exception: argument 1 must be sequence of length 2, not 1
+[2020-04-12 11:08:18.892] app_server.py [line:91] INFO [10318987602576034380] request cost:0.00 sec
+[2020-04-12 11:44:10.249] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 11:44:12.081] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 11:44:12.085] app_server.py [line:152] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 11:44:20.934] data_util.py [line:90] INFO [13048374829519610084] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 11:44:20.934] business_service.py [line:80] INFO [13048374829519610084] prepare input cost time: 0.01 sec
+[2020-04-12 11:50:00.196] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 11:50:02.125] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 11:50:02.130] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 11:50:41.215] data_util.py [line:90] INFO [13241842108285484193] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 11:50:41.216] business_service.py [line:80] INFO [13241842108285484193] prepare input cost time: 0.01 sec
+[2020-04-12 11:51:21.569] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 11:51:23.295] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 11:51:23.299] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 11:51:32.248] data_util.py [line:90] INFO [11606725371576046068] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 11:51:32.249] business_service.py [line:80] INFO [11606725371576046068] prepare input cost time: 0.01 sec
+[2020-04-12 11:51:32.249] app_server.py [line:88] ERROR [11606725371576046068] infer exception: 'list' object has no attribute 'shape'
+[2020-04-12 11:51:32.249] app_server.py [line:92] INFO [11606725371576046068] request cost:0.01 sec
+[2020-04-12 11:51:32.259] data_util.py [line:90] INFO [11270147363896361743] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 11:51:32.260] business_service.py [line:80] INFO [11270147363896361743] prepare input cost time: 0.01 sec
+[2020-04-12 11:51:32.260] app_server.py [line:88] ERROR [11270147363896361743] infer exception: 'list' object has no attribute 'shape'
+[2020-04-12 11:51:32.260] app_server.py [line:92] INFO [11270147363896361743] request cost:0.01 sec
+[2020-04-12 11:53:27.058] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 11:53:28.806] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 11:53:28.810] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 11:53:40.001] data_util.py [line:90] INFO [9521389021807437108] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 11:53:40.002] business_service.py [line:80] INFO [9521389021807437108] prepare input cost time: 0.01 sec
+[2020-04-12 11:53:40.456] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.40 sec
+[2020-04-12 11:53:40.457] app_server.py [line:92] INFO [9521389021807437108] request cost:0.45 sec
+[2020-04-12 11:53:40.471] data_util.py [line:90] INFO [12640971730486203567] read image base64 and resize cost time: 0.00 sec
+[2020-04-12 11:53:40.471] business_service.py [line:80] INFO [12640971730486203567] prepare input cost time: 0.01 sec
+[2020-04-12 11:53:40.869] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.35 sec
+[2020-04-12 11:53:40.869] app_server.py [line:92] INFO [12640971730486203567] request cost:0.40 sec
+[2020-04-12 12:14:26.838] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 12:14:28.648] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 12:14:28.654] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 12:14:47.519] data_util.py [line:90] INFO [11984412410865306551] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 12:14:47.520] business_service.py [line:80] INFO [11984412410865306551] prepare input cost time: 0.01 sec
+[2020-04-12 12:14:47.530] data_util.py [line:90] INFO [10842441259124530789] read image base64 and resize cost time: 0.02 sec
+[2020-04-12 12:14:47.541] business_service.py [line:80] INFO [10842441259124530789] prepare input cost time: 0.03 sec
+[2020-04-12 12:14:48.343] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 2 cost time: 0.77 sec
+[2020-04-12 12:14:48.344] app_server.py [line:92] INFO [11984412410865306551] request cost:0.82 sec
+[2020-04-12 12:14:48.344] app_server.py [line:92] INFO [10842441259124530789] request cost:0.79 sec
+[2020-04-12 12:38:44.094] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 12:38:45.732] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 12:38:45.736] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 12:38:53.299] data_util.py [line:90] INFO [10600742420363322650] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 12:38:53.299] business_service.py [line:80] INFO [10600742420363322650] prepare input cost time: 0.01 sec
+[2020-04-12 12:38:53.310] data_util.py [line:90] INFO [9230688834651361118] read image base64 and resize cost time: 0.02 sec
+[2020-04-12 12:38:53.321] business_service.py [line:80] INFO [9230688834651361118] prepare input cost time: 0.03 sec
+[2020-04-12 12:38:54.078] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 2 cost time: 0.73 sec
+[2020-04-12 12:38:54.079] app_server.py [line:92] INFO [10600742420363322650] request cost:0.78 sec
+[2020-04-12 12:38:54.080] app_server.py [line:92] INFO [9230688834651361118] request cost:0.74 sec
+[2020-04-12 12:40:08.710] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-12 12:40:10.377] executor_manager.py [line:69] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': '../data/data29800/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-12 12:40:10.381] app_server.py [line:153] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-12 12:40:19.246] data_util.py [line:90] INFO [13130578178006126187] read image base64 and resize cost time: 0.01 sec
+[2020-04-12 12:40:19.246] business_service.py [line:80] INFO [13130578178006126187] prepare input cost time: 0.01 sec
+[2020-04-12 12:40:19.258] data_util.py [line:90] INFO [11114741123182873645] read image base64 and resize cost time: 0.02 sec
+[2020-04-12 12:40:19.268] business_service.py [line:80] INFO [11114741123182873645] prepare input cost time: 0.03 sec
+[2020-04-12 12:40:19.999] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 2 cost time: 0.70 sec
+[2020-04-12 12:40:20.000] app_server.py [line:92] INFO [13130578178006126187] request cost:0.75 sec
+[2020-04-12 12:40:20.000] app_server.py [line:92] INFO [11114741123182873645] request cost:0.72 sec
+[2020-04-24 11:08:29.325] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 11:12:54.478] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 11:14:56.929] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 11:27:55.609] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 11:31:08.845] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 12:04:25.856] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 12:14:51.047] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 12:17:14.335] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 12:21:34.918] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 12:54:45.478] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 13:00:16.505] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 13:06:12.905] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 13:11:00.224] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-24 13:11:14.911] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev

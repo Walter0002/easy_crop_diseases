@@ -1,0 +1,85 @@
+[2020-04-30 13:09:03.045] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 13:09:07.750] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 13:09:07.761] app_server.py [line:172] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 13:14:28.276] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 13:14:32.464] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 13:14:32.476] app_server.py [line:172] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 13:15:50.265] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 13:15:54.608] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 13:15:54.619] app_server.py [line:162] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 13:17:58.728] data_util.py [line:90] INFO [62302154336970020] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 13:17:58.728] business_service.py [line:80] INFO [62302154336970020] prepare input cost time: 0.01 sec
+[2020-04-30 13:17:59.540] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.76 sec
+[2020-04-30 13:17:59.541] app_server.py [line:101] INFO [62302154336970020] request cost:0.81 sec
+[2020-04-30 13:18:43.685] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 13:18:47.950] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 13:18:47.961] app_server.py [line:172] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 13:19:43.774] data_util.py [line:90] INFO [84340048203011200] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 13:19:43.774] business_service.py [line:80] INFO [84340048203011200] prepare input cost time: 0.01 sec
+[2020-04-30 13:19:44.511] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.69 sec
+[2020-04-30 13:19:44.512] app_server.py [line:111] INFO [84340048203011200] request cost:0.74 sec
+[2020-04-30 15:08:57.237] data_util.py [line:90] INFO [62729785441519570] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 15:08:57.238] business_service.py [line:80] INFO [62729785441519570] prepare input cost time: 0.01 sec
+[2020-04-30 15:08:58.021] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.73 sec
+[2020-04-30 15:08:58.023] app_server.py [line:111] INFO [62729785441519570] request cost:0.78 sec
+[2020-04-30 15:44:21.733] app_server.py [line:152] CRITICAL [react-main-loop-logid] too less argv, need a start profile, run as: python app_server.py dev
+[2020-04-30 15:45:20.842] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 15:45:24.990] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 15:45:25.001] app_server.py [line:177] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 15:45:50.264] data_util.py [line:90] INFO [11209123058133774] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 15:45:50.265] business_service.py [line:80] INFO [11209123058133774] prepare input cost time: 0.01 sec
+[2020-04-30 15:45:51.014] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.70 sec
+[2020-04-30 15:45:51.019] app_server.py [line:112] ERROR [11209123058133774] infer exception: %d format: a number is required, not str
+[2020-04-30 15:45:51.019] app_server.py [line:116] INFO [11209123058133774] request cost:0.75 sec
+[2020-04-30 15:46:20.408] data_util.py [line:90] INFO [34303759261822230] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 15:46:20.408] business_service.py [line:80] INFO [34303759261822230] prepare input cost time: 0.01 sec
+[2020-04-30 15:46:21.051] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.59 sec
+[2020-04-30 15:46:21.055] app_server.py [line:112] ERROR [34303759261822230] infer exception: %d format: a number is required, not str
+[2020-04-30 15:46:21.055] app_server.py [line:116] INFO [34303759261822230] request cost:0.65 sec
+[2020-04-30 15:48:15.705] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 15:48:20.109] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 15:48:20.119] app_server.py [line:179] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 15:48:23.764] data_util.py [line:90] INFO [88477149329646770] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 15:48:23.764] business_service.py [line:80] INFO [88477149329646770] prepare input cost time: 0.01 sec
+[2020-04-30 15:48:24.491] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.67 sec
+[2020-04-30 15:48:24.496] app_server.py [line:114] ERROR [88477149329646770] infer exception: %d format: a number is required, not str
+[2020-04-30 15:48:24.497] app_server.py [line:118] INFO [88477149329646770] request cost:0.73 sec
+[2020-04-30 15:49:55.698] data_util.py [line:90] INFO [87050711328482700] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 15:49:55.698] business_service.py [line:80] INFO [87050711328482700] prepare input cost time: 0.01 sec
+[2020-04-30 15:49:56.359] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-30 15:49:56.363] app_server.py [line:114] ERROR [87050711328482700] infer exception: %d format: a number is required, not str
+[2020-04-30 15:49:56.363] app_server.py [line:118] INFO [87050711328482700] request cost:0.66 sec
+[2020-04-30 15:51:28.943] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 15:51:33.180] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 15:51:33.191] app_server.py [line:179] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 15:51:38.391] data_util.py [line:90] INFO [57941750873604270] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 15:51:38.392] business_service.py [line:80] INFO [57941750873604270] prepare input cost time: 0.01 sec
+[2020-04-30 15:51:39.120] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.68 sec
+[2020-04-30 15:51:39.123] app_server.py [line:114] ERROR [57941750873604270] infer exception: %d format: a number is required, not str
+[2020-04-30 15:51:39.123] app_server.py [line:118] INFO [57941750873604270] request cost:0.73 sec
+[2020-04-30 16:01:00.465] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 16:01:04.743] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 16:01:04.755] app_server.py [line:180] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 16:01:12.047] data_util.py [line:90] INFO [76687819422254900] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 16:01:12.047] business_service.py [line:80] INFO [76687819422254900] prepare input cost time: 0.01 sec
+[2020-04-30 16:01:12.793] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.69 sec
+[2020-04-30 16:01:12.846] app_server.py [line:119] INFO [76687819422254900] request cost:0.80 sec
+[2020-04-30 16:01:47.151] data_util.py [line:90] INFO [26108053236064220] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 16:02:06.430] business_service.py [line:80] INFO [26108053236064220] prepare input cost time: 19.28 sec
+[2020-04-30 16:02:17.834] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 16:02:22.051] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 16:02:22.062] app_server.py [line:178] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 16:02:25.707] data_util.py [line:90] INFO [60601847682985200] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 16:02:25.708] business_service.py [line:80] INFO [60601847682985200] prepare input cost time: 0.01 sec
+[2020-04-30 16:02:26.433] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.67 sec
+[2020-04-30 16:02:26.483] app_server.py [line:117] INFO [60601847682985200] request cost:0.77 sec
+[2020-04-30 16:02:38.437] data_util.py [line:90] INFO [22277466693388724] read image base64 and resize cost time: 0.01 sec
+[2020-04-30 16:02:38.438] business_service.py [line:80] INFO [22277466693388724] prepare input cost time: 0.01 sec
+[2020-04-30 16:02:39.099] business_service.py [line:46] INFO [react-main-loop-logid] executor infer num 1 cost time: 0.61 sec
+[2020-04-30 16:02:39.116] app_server.py [line:117] INFO [22277466693388724] request cost:0.68 sec
+[2020-04-30 16:14:03.823] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 16:14:07.994] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 16:14:08.005] app_server.py [line:182] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
+[2020-04-30 16:48:07.459] server_conf.py [line:43] INFO [react-main-loop-logid] current config section dev
+[2020-04-30 16:48:11.812] executor_manager.py [line:68] INFO [react-main-loop-logid] device type:cpu executor count:2 model dir:{'SE_ResNeXt': 'data/freeze-model-0.835/home/aistudio/freeze-model'} get executor timeout:0.5s
+[2020-04-30 16:48:11.822] app_server.py [line:183] INFO [react-main-loop-logid] start app listen port:8082 thread pool size:20 site root:predictor
