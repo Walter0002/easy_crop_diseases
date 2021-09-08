@@ -4,5 +4,5 @@ opencv_python==4.1.0.25
 requests==2.21.0
 paddlepaddle==1.6.1
 Twisted==19.7.0
-Pillow==7.1.0
+Pillow==8.3.2
 ConfigParser
