@@ -2,7 +2,7 @@ Flask==1.1.0
 numpy==1.16.2
 opencv_python==4.1.0.25
 requests==2.21.0
-paddlepaddle==1.6.1
+paddlepaddle==2.4.0
 Twisted==19.7.0
 Pillow==7.1.0
 ConfigParser
